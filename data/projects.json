@@ -2,12 +2,12 @@
 	"list": [
 		{
 			"name": "Workshop Resources",
-			"url": "https://github.com/DataSciClubECC/slides",
+			"url": "https://github.com/ecc-cs-club/slides",
 			"desc": "Workshop resources, including cheatsheets and slides"
 		},
 		{
 			"name": "Website",
-			"url": "https://github.com/DataSciClubECC/website",
+			"url": "https://github.com/ecc-cs-club/website",
 			"desc": "Source code for the website"
 		}
 	]

@@ -1,8 +1,8 @@
-baseURL = 'https://datasciclubecc.github.io/website'
+baseURL = 'https://ecc-cs-club.github.io/website'
 languageCode = 'en-us'
-title = 'Data Science Club at El Camino College'
+title = 'Computer Science Club at El Camino College'
 theme = 'cactus'
-copyright = "ECC Data Science Members"
+copyright = "ECC Computer Science Club Members"
 # disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 
@@ -84,10 +84,10 @@ weight = 4
 	# https://fontawesome.com/icons?d=gallery&s=brands
 	[[params.social]]
 		name = "github"
-		link = "https://github.com/DataSciClubECC"
+		link = "https://github.com/ecc-cs-club"
 	[[params.social]]
 		name = "discord"
-		link = "https://discord.gg/mFDjqbgADT"
+		link = "https://discord.gg/mzzMrsu3C5"
 	[[params.social]]
 		name = "email"
-		link = "edwin@kofler.dev"  # no need for "mailto:" in the head
+		link = "edwin@kofler.dev"  # no need for "mailto:"
