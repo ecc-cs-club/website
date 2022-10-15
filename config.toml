@@ -53,7 +53,7 @@ weight = 4
 	# showAllPostsArchive = false # default
 
 	# Home page settings
-	description = "A website for El Camino College’s upcoming Data Science Club"
+	description = "A website for El Camino College’s Computer Science Club"
 	mainSection = "posts" # your main section
 	showAllPostsOnHomePage = false # default
 	postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
